@@ -1,4 +1,7 @@
-Note: requires java and zookeeper
+Notes
+
+- requires java and zookeeper
+- article on running kafka on docker -- http://blog.jaceklaskowski.pl/2015/07/14/apache-kafka-on-docker.html
 
 ```
 sudo apt-get install zookeeperd
