@@ -13,6 +13,7 @@ openssl req -newkey rsa:2048 -nodes -sha256 -keyout ${NAME}.pkey -out ${NAME}.cs
 ```
 
 # Check web site's SSL certificate
+(thanks Mahmood!)
 
 ```
 echo yes | openssl s_client -connect circle-artifacts.com:443 2>/dev/null | openssl x509 -noout -dates -subject
