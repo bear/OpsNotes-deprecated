@@ -12,6 +12,7 @@ Usage:
 import sys
 import json
 import traceback
+# pip install apache-log-parser
 import apache_log_parser
 
 
