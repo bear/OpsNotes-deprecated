@@ -1,6 +1,9 @@
 ## OpsNotes
 Collection of notes, tools and links relating to Ops
 
+## Command Line
+https://github.com/jlevy/the-art-of-command-line
+
 ### logs.py
 ```
 Usage:
